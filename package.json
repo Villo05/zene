@@ -4,7 +4,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Villo05.github.io/zene",
+  "homepage": "https://github.com/Villo05/zene.git",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
