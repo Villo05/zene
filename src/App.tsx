@@ -1,7 +1,7 @@
 
 import { ZENELISTA } from './adat'
 import './App.css'
-import Zenek from './compoment/zenek'
+import Zenek from './compoment/Zenek'
 
 export default function App() {
 

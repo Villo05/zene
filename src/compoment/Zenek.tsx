@@ -1,5 +1,5 @@
 import type { ZeneTipus } from "../adat"
-import Zene from "./zene"
+import Zene from "./Zene"
 interface ZeneListaProps{
     lista: ZeneTipus[]
 }
